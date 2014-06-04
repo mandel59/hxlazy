@@ -1,0 +1,11 @@
+{
+    "name": "hxlazy",
+    "url": "https://github.com/mandel59/hxlazy",
+    "license": "MIT",
+    "tags": ["cross", "lazy", "ds"],
+    "description": "lazy data structure",
+    "version": "0.0.1",
+    "releasenote": "first release",
+    "contributors": ["mandel59"],
+    "dependencies": {}
+}
